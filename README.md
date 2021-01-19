@@ -4,4 +4,4 @@ Project description: Restaurants review app, helps users quickly find restaurant
 
 Technologies used: HTML, CSS, Javascript, ReactJS
 
-Live version : https://hazemelsawy.github.io/foodnow/
+Live version : https://foodnow-d41f9.web.app/#/
